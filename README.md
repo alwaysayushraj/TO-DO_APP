@@ -1,8 +1,6 @@
 # 📝 Modern To-Do App with Celebration Logic
 
-A vibrant, interactive To-Do List application built with Vanilla JavaScript, HTML5, and CSS3. This project features a glassmorphism UI, a dynamic progress bar, and a confetti celebration when all tasks are completed.
-
-![App Preview](./Preview.jpg)
+A vibrant, interactive To-Do List application built with Vanilla JavaScript, HTML5, and CSS3. This project features a glassmorphism UI, a dynamic progress bar, and a confetti celebration upon completion of all tasks.
 
 ## ✨ Features
 - **Dynamic Task Management:** Add and delete tasks instantly.
@@ -19,4 +17,6 @@ A vibrant, interactive To-Do List application built with Vanilla JavaScript, HTM
 ## 📸 Screenshots
 | Initial State | Completed State |
 |---|---|
-| ![Start](./Preview.jpg) | ![End](./Submission%20Preview.jpg) |
+| ![Start](<img width="1366" height="768" alt="Preview" src="https://github.com/user-attachments/assets/962452e1-0140-48a6-9873-aad9ddcb68aa" />
+) | ![End](<img width="1366" height="768" alt="Submission Preview" src="https://github.com/user-attachments/assets/2bf1cdee-0e89-469f-b5e9-70bb9948917d" />
+) |
